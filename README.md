@@ -1,4 +1,4 @@
-# Paper Cuts
+# Rusty Paper Cuts
 
 Notes on difficulties learning rust, in the form of a usability test.  I'll eventually rework this to mark things that newbies wouldn't know....
 
